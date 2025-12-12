@@ -88,3 +88,10 @@ Run all cells in the notebook to view preprocessing, training, and predictions.
 # ❤️ **𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬**
 Feel free to fork and enhance this project.  
 PRs are welcome! 🚀
+
+
+- ## 🙋‍♀️ Connect With Me
+
+ - Name - Ridam Sharma  
+📎 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/ridam-sharma-688784357/)  
+📧 Email: ridam.261205@gmail.com

@@ -91,7 +91,7 @@ These visuals help understand student performance patterns and model accuracy.
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/Student-Score-Prediction-Project.git
+https://github.com/ridam261205-blip/Student-Score-Prediction-Project.git
 
 
 2. Install required libraries:
